@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm Shailesh Chaudhary, a passionate developer and researcher currently working at the intersection of drug discovery and artificial intelligence. My work focuses on building Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) systems to revolutionize how we discover and develop new therapeutics.
 
-![AI Drug Discovery](http://alliancetechsystem.com/)
+![AI Drug Discovery](https://media.giphy.com/media/YYW0hHizzIOrlhimPG/giphy.gif)
 
 With a strong background in machine learning, knowledge graphs, and natural language processing (NLP), I aim to harness the power of AI to accelerate drug discovery pipelines, making the process more efficient and data-driven.
 
